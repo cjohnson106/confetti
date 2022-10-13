@@ -13,3 +13,6 @@ body {
     font-size: 10em;
   }
   
+  span:nth-child(odd) {
+    color: blueviolet;
+  }
