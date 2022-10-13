@@ -8,6 +8,8 @@ body {
   }
   
   h1 {
-    background: red;
+    /* background: red; */
+    font-family: 'Sharpie-Light';
+    font-size: 10em;
   }
   
